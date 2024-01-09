@@ -221,9 +221,7 @@ class VariantProductView: UIView {
 
             
         ])
-        
         //change from feature b
-        
        
     }
     
