@@ -222,6 +222,8 @@ class VariantProductView: UIView {
             
         ])
         
+        //NYOBAIN GIT
+        
        
     }
     
