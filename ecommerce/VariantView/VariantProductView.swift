@@ -222,7 +222,7 @@ class VariantProductView: UIView {
             
         ])
         
-        //NYOBAIN GIT
+        //change from feature b
         
        
     }
